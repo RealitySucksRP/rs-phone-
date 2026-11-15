@@ -1,0 +1,29 @@
+RealitySucksRP Free Full Source Community License
+Copyright (c) 2026 RealitySucksRP. All rights reserved.
+
+This license applies to the RS Phone release distributed without charge by RealitySucksRP, excluding third-party components and assets that retain their own license terms.
+
+1. FREE LICENSE GRANT
+RealitySucksRP authorizes anyone to download this official free release and, at no charge:
+- install and run RS Phone on FiveM servers they own, administer, or control;
+- read, configure, and modify the included source code for their own servers;
+- use RS Phone on monetized servers where that use complies with applicable Cfx.re/FiveM, Tebex, Rockstar Games, and other platform rules.
+
+No purchase, paid activation, or separate commercial source license is required for this free release.
+
+2. REDISTRIBUTION AND RESALE
+Downloading and using RS Phone for your own server is permitted. Reselling, relicensing, repackaging, rehosting, or distributing the original or modified resource as your own standalone product or bundled commercial script is not permitted without written permission from RealitySucksRP. Share the official GitHub release or Tebex download link instead.
+
+The license is free source access for server use, not an OSI-approved open-source license. Ownership and copyright remain with the original authors.
+
+3. MODIFICATIONS AND ATTRIBUTION
+You may modify the resource for your own server. Keep copyright, attribution, and third-party notices intact. Modifications do not grant the right to sell or republish the original package or derivative distributions without permission.
+
+4. THIRD-PARTY ASSETS
+Third-party components and materials remain governed by their respective licenses and terms. In particular, refer to docs/THIRD-PARTY-ASSETS.md and web/assets/map-LICENSE.txt. This license does not expand the rights granted under third-party licenses.
+
+5. NO WARRANTY
+The software is provided 'as is' without warranties to the fullest extent permitted by law. Server owners are responsible for compatibility checks, data backups, securing server configurations, and compliance with platform rules.
+
+6. QUESTIONS
+Contact RealitySucksRP through its official community/support channels for redistribution or licensing permission.
