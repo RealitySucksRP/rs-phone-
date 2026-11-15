@@ -12,7 +12,7 @@
 
 **RS Phone** is a full-source FiveM roleplay smartphone from RealitySucksRP. It combines player communication, camera and video capture, persistent media, banking, social apps, maps, businesses and emergency services with a deployable Drone and Recon surveillance system.
 
-> This standalone GitHub repository is a **public product showcase**, not a public release of the software source. Obtain the resource and its installation files from the [official Tebex package](https://reality-sucks-rp-webstore.tebex.io/package/7628037). Full source is subject to the included RealitySucksRP commercial license.
+> **RS Phone v4.15.5 is now FREE with full source.** Get the complete resource from the [official free Tebex listing](https://reality-sucks-rp-webstore.tebex.io/package/7628037). The full ZIP is being prepared for a direct GitHub Release download; the **Code → Download ZIP** button on this repository currently downloads only the documentation. The free full-source license permits own-server use and modifications; redistribution/resale remain restricted.
 
 ## Key features
 
@@ -74,12 +74,16 @@ The resource includes its own internal framework bridge. **No external `rs_bridg
 - [Interactive handset and icon collection](https://realitysucksrp.github.io/rs-phone/)
 - [Official product listing and gallery](https://reality-sucks-rp-webstore.tebex.io/package/7628037)
 
-## Installation and configuration
+## Free download and installation
 
-Download the licensed package from Tebex, then use **the README and setup documentation included with the purchased/downloaded resource**. The source archive includes SQL setup, framework/provider notes, installation items and media/recon configuration documentation. Do not install this showcase repository as a FiveM resource; it contains no executable phone code.
+**[Download RS Phone — FREE full-source package on Tebex](https://reality-sucks-rp-webstore.tebex.io/package/7628037)**. The complete 43.5 MiB release ZIP contains Lua, NUI, web assets, SQL, config and installation documentation.
 
-## Licensing
+**GitHub release asset:** The full ZIP has not yet been attached to a GitHub Release. Do not use **Code → Download ZIP** for installation; that currently downloads only the showcase documentation. Once the release asset is uploaded, use the [Releases page](https://github.com/RealitySucksRP/rs-phone-/releases) for direct GitHub downloads.
 
-© 2026 RealitySucksRP. RS Phone is supplied as **full source under a commercial license**, not as open-source software. Access to readable source does not grant permission to redistribute, resell or publish it. See the license supplied with the resource and the official product listing for terms.
+Extract the complete release ZIP into your FiveM server resources directory, then follow `rs-phone/README.md` and the bundled setup documents for prerequisites, database installation and configuration.
 
-**Get RS Phone:** [https://reality-sucks-rp-webstore.tebex.io/package/7628037](https://reality-sucks-rp-webstore.tebex.io/package/7628037)
+## License
+
+© 2026 RealitySucksRP. RS Phone v4.15.5 is provided **free with readable, editable source** under the RealitySucksRP Free Full Source Community License. You may use and modify the resource on your server at no charge. This is not an unrestricted open-source/redistribution license: resale, repackaging or reposting source files require permission. Third-party assets retain their own terms.
+
+**Get RS Phone FREE:** [https://reality-sucks-rp-webstore.tebex.io/package/7628037](https://reality-sucks-rp-webstore.tebex.io/package/7628037)
