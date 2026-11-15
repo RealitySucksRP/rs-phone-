@@ -1,0 +1,15 @@
+# Keep the public showcase repository separate from the commercial FiveM resource.
+# Do not commit a purchased/development rs-phone package or configuration secrets.
+/client/
+/server/
+/shared/
+/bridge/
+/web/
+/sql/
+/install/
+/config.lua
+/fxmanifest.lua
+/*.zip
+*.env
+.env.*
+*.log
