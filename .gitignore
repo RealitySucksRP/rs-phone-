@@ -1,15 +1,16 @@
-# Keep the public showcase repository separate from the commercial FiveM resource.
-# Do not commit a purchased/development rs-phone package or configuration secrets.
-/client/
-/server/
-/shared/
-/bridge/
-/web/
-/sql/
-/install/
-/config.lua
-/fxmanifest.lua
-/*.zip
-*.env
+# Local-only files and secrets
+.env
 .env.*
 *.log
+server.cfg
+secrets.json
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
+
+# Distribution ZIP files may be published with a tagged GitHub Release.
+# Do not track personal server caches, database credentials, or test data.
+cache/
+server-cache/
