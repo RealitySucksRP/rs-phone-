@@ -1,8 +1,9 @@
-# Public showcase notice
+# RS Phone — Free full-source release
 
-This repository contains marketing/documentation for RealitySucksRP RS Phone.
-It does not include the commercial FiveM resource, its Lua/JavaScript runtime, SQL files, or original product ZIP.
+RS Phone v4.15.5 is now distributed **free of charge** by RealitySucksRP. The resource includes readable and editable source for server use. The license in [LICENSE](LICENSE) governs the free release, including redistribution and resale restrictions.
 
-The screenshots in README.md are referenced via public image URLs on the official Tebex product gallery; they are not bundled in this repository.
+**Where to download:** [Free Tebex package](https://reality-sucks-rp-webstore.tebex.io/package/7628037). The GitHub Releases section will offer the complete ZIP once a release asset has been uploaded. GitHub's **Code → Download ZIP** currently downloads only this repository's documentation, not the FiveM resource.
 
-© 2026 RealitySucksRP. No open-source license is granted for the RS Phone software by this showcase repository.
+Screenshots in README.md are externally linked to the official Tebex product gallery. Third-party material in the resource retains its own licenses.
+
+© 2026 RealitySucksRP.
