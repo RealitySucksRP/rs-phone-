@@ -12,7 +12,7 @@
 
 **RS Phone** is a full-source FiveM roleplay smartphone from RealitySucksRP. It combines player communication, camera and video capture, persistent media, banking, social apps, maps, businesses and emergency services with a deployable Drone and Recon surveillance system.
 
-> **RS Phone v4.15.5 is now FREE with full source.** Get the complete resource from the [official free Tebex listing](https://reality-sucks-rp-webstore.tebex.io/package/7628037). The full ZIP is being prepared for a direct GitHub Release download; the **Code → Download ZIP** button on this repository currently downloads only the documentation. The free full-source license permits own-server use and modifications; redistribution/resale remain restricted.
+> **RS Phone v4.15.16 is free with full source.** Get the complete resource from [GitHub Releases](https://github.com/RealitySucksRP/rs-phone-/releases/latest/download/rs-phone.zip) or the [official free Tebex listing](https://reality-sucks-rp-webstore.tebex.io/package/7628037). The free full-source license permits own-server use and modifications. Redistribution and resale remain restricted.
 
 ## Key features
 
@@ -60,7 +60,7 @@ Images are from the official [RealitySucksRP Tebex gallery](https://reality-suck
 - **Game:** FiveM GTA V Legacy and Enhanced; OneSync
 - **Frameworks:** Qbox, QBCore, ESX and standalone fallback
 - **Inventory:** ox_inventory and qb-inventory integrations
-- **Resource manifest version from provided ZIP:** `4.15.5`
+- **Resource manifest version:** `4.15.16`
 - **Core dependencies declared by supplied manifest:** `oxmysql`, `ox_lib` and `screencapture`, with OneSync enabled
 - **Voice:** compatible live-voice resource required for voice calling
 - **Optional integrations:** configured separately when the relevant economy, garage, housing, racing, dispatch or other provider is installed
@@ -76,14 +76,14 @@ The resource includes its own internal framework bridge. **No external `rs_bridg
 
 ## Free download and installation
 
-**[Download RS Phone — FREE full-source package on Tebex](https://reality-sucks-rp-webstore.tebex.io/package/7628037)**. The complete 43.5 MiB release ZIP contains Lua, NUI, web assets, SQL, config and installation documentation.
+**[Download RS Phone from GitHub](https://github.com/RealitySucksRP/rs-phone-/releases/latest/download/rs-phone.zip)** or **[get it free on Tebex](https://reality-sucks-rp-webstore.tebex.io/package/7628037)**. The release ZIP contains Lua, NUI, web assets, SQL, config and installation documentation.
 
-**GitHub release asset:** The full ZIP has not yet been attached to a GitHub Release. Do not use **Code → Download ZIP** for installation; that currently downloads only the showcase documentation. Once the release asset is uploaded, use the [Releases page](https://github.com/RealitySucksRP/rs-phone-/releases) for direct GitHub downloads.
+Use the attached `rs-phone.zip` from [Releases](https://github.com/RealitySucksRP/rs-phone-/releases) for installation. The repository's **Code → Download ZIP** archive contains the showcase documentation.
 
 Extract the complete release ZIP into your FiveM server resources directory, then follow `rs-phone/README.md` and the bundled setup documents for prerequisites, database installation and configuration.
 
 ## License
 
-© 2026 RealitySucksRP. RS Phone v4.15.5 is provided **free with readable, editable source** under the RealitySucksRP Free Full Source Community License. You may use and modify the resource on your server at no charge. This is not an unrestricted open-source/redistribution license: resale, repackaging or reposting source files require permission. Third-party assets retain their own terms.
+© 2026 RealitySucksRP. RS Phone is provided **free with readable, editable source** under the RealitySucksRP Free Full Source Community License. You may use and modify the resource on your server at no charge. Resale, repackaging or reposting source files require permission. Third-party assets retain their own terms.
 
 **Get RS Phone FREE:** [https://reality-sucks-rp-webstore.tebex.io/package/7628037](https://reality-sucks-rp-webstore.tebex.io/package/7628037)
